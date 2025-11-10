@@ -13,7 +13,7 @@ DB_CONFIG = {
     'host': 'localhost',        
     'database': 'students_table',  
     'user': 'postgres',         
-    'password': 'NotTodayGithub' # Database password
+    'password': 'your_password' # Database password
 }
 
 
