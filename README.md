@@ -5,7 +5,7 @@ A Python app that performs CRUD operations on a PostgreSQL database with an inte
 ## Author
 
 - Bashar Saadi
-- YouTube Link: [coming soon]
+- YouTube Link: https://www.youtube.com/watch?v=RCRTStPJSGw
 
 ## Requirements
 
